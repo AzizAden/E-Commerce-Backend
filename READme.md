@@ -58,7 +58,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Express.js](https://expressjs.com/)
 - [Sequelize](https://sequelize.org/)
 - [MySQL](https://www.mysql.com/)
-
-
-Feel free to copy the above code and use it as your README template.
-
